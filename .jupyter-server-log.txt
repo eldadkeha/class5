@@ -90,3 +90,6 @@ TermSocket.open: Opened 1
 [I 10:36:18.670 NotebookApp] Kernel shutdown: dcfef135-8327-4065-8224-d89a4cae1dae
 [I 10:57:40.924 NotebookApp] Kernel started: a63313f2-f95f-42cc-891c-1f8389417b97, name: python3
 [I 10:58:38.235 NotebookApp] Saving file at /C5.ipynb
+[I 11:02:39.367 NotebookApp] Saving file at /C5G5.ipynb
+[I 11:04:39.815 NotebookApp] Saving file at /C5G5.ipynb
+[I 11:04:47.490 NotebookApp] Saving file at /C5G5.ipynb
